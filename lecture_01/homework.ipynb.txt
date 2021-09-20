@@ -1,0 +1,4 @@
+# Python 
+def say_hello(): # Объявление функции say_hello
+    print('Hello MAI!') # Вызов встроенной функции print с параметром 'Hello MAI!'
+say_hello() # Вызов функции say_hello
