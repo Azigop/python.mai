@@ -1,5 +1,4 @@
 def own_zip(a, b):
-    length = 0
     if len(a) > len(b):
         length = len(b)
     else:
