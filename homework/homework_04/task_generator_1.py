@@ -1,6 +1,5 @@
 def own_enumerate(arr):
     num = 0
-    b = ()
     for i in arr:
         b = (num, i)
         yield b
